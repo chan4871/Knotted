@@ -113,6 +113,7 @@
 : 클릭 시 각 항목별 페이지로 자연스럽게 이동
 - **본문 구성**
 : 각 콘텐츠를 섹션 단위로 나누어 시각적 피로도를 줄이고 정보 전달력을 높임
+<img src="https://github.com/chan4871/Knotted/blob/main/Readme/subnotice-section.gif?raw=true" alt="공지사항" width="700">
 
 #### 이벤트
 - **상단 배너 영역**
@@ -122,10 +123,12 @@
 : 클릭 시 각 항목별 페이지로 자연스럽게 이동
 - **본문 구성**
 : 각 콘텐츠를 섹션 단위로 나누어 시각적 피로도를 줄이고 정보 전달력을 높임
+<img src="https://github.com/chan4871/Knotted/blob/main/Readme/subevent.gif?raw=true"  alt="이벤트" width="700">
 
 #### 브랜드 소개
 - **브랜드 스토리 영역** : 상단에는 브랜드의 시작 배경, 철학, 가치관 등을 감성적인 카피와 이미지로 시각적 효과를 주었고, 
 이와 함께 콘텐츠 영역에는 브랜드 아이덴티티를 강화하는 오브젝트를 배치해 애니메이션 효과를 주어 구성
+<img src="https://github.com/chan4871/Knotted/blob/main/Readme/substory-section.gif?raw=true" alt="브랜드 소개" width="700">
 
 #### 자주 묻는 질문 (FAQ)
 - **질문 영역** : 질문 클릭 시 질문에 대한 답변이 나오도록 구성
